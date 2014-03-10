@@ -37,7 +37,7 @@
 
 extern "C"
 {
-#include "../../../PdEnhanced/Sources/pd_enhanced.h"
+#include "../../../CicmWrapper/Sources/pd_enhanced.h"
 }
 #include "../../Sources/HoaLibrary.h"
 
