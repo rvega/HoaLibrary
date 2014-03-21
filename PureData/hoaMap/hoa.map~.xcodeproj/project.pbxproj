@@ -574,7 +574,7 @@
 				8F8244C6180BBBFD0080A749 /* pd_enhanced.h */,
 			);
 			name = Sources;
-			path = /Users/rafa/Rafa/Projects/Active/SoundSpace/repo/app/pd/vendors/hoa/CicmWrapper/Sources;
+			path = /Users/rafa/Rafa/Projects/Active/SoundSpace/repo/app/vendors/hoa/CicmWrapper/Sources;
 			sourceTree = "<absolute>";
 		};
 		8FB6367317D3CAA90070AE49 /* hoaRecomposer */ = {
@@ -835,7 +835,7 @@
 				EXECUTABLE_EXTENSION = pd_darwin;
 				EXECUTABLE_PREFIX = "";
 				FRAMEWORK_SEARCH_PATHS = "$SRCROOT/../../../../pd-extended/src";
-				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_OPTIMIZATION_LEVEL = fast;
 				GCC_PREPROCESSOR_DEFINITIONS = NO_PUB;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = "$SRCROOT/../../../../pd-extended/src";
