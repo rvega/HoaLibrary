@@ -39,10 +39,11 @@
 
 #ifdef _WINDOWS
 
-#include <ipps.h>
-#include <ippm.h>
-#include <mkl.h>
-#include <mkl_cblas.h>
+//#include <ipps.h>
+//#include <ippm.h>
+//#include <mkl.h>
+//#include <mkl_cblas.h>
+#include <gsl/gsl_cblas.h>
 
 #endif
 /************************************************************************************/

@@ -27,6 +27,7 @@
 #define DEF_AMBISONICSDELAY
 
 #include "../HoaAmbisonics/AmbisonicsDiffuser.h"
+#include "../CicmLibrary/CicmDelay/CicmDecorrelation.h"
 
 class AmbisonicsDelay : public AmbisonicsDiffuser
 {
